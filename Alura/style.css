@@ -1,0 +1,88 @@
+
+*{
+background-color: whitesmoke;
+font-family: 'Inter', sans-serif;
+font-size: 22px;
+font-weight: 400;
+line-height: 150%;
+}
+
+.logoAlura{
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 2%;
+  
+}
+main{
+  display: flex;
+  margin-bottom: 50px;
+  margin-left: 80px;
+}
+.text-area{
+  border: none;
+  color: darkblue;
+  margin-top: 90px;
+  text-transform: lowercase;
+}
+::placeholder {color: darkblue;}
+.text-area:focus{
+  outline: none;
+}
+.mensagem{
+  background-color: white;
+  background-image: url(menino-curioso.jpg);
+  background-repeat: no-repeat;
+  border: none;
+  border-radius: 24px;
+  color: darkblue;
+  margin-left: 100px;
+  margin-top: 20px;
+  padding-left: 80px;
+  position:fixed;
+}
+.mensagem:focus{
+  outline: none;
+}
+.botoes{
+  display: flex;
+  margin-top: 18px;
+
+}
+.btn-desencriptar{
+  background: white;
+  border: 1px solid darkblue;
+  border-radius: 24px;
+  color:darkblue ;
+  cursor:pointer ;
+  height:50px ;
+  margin-left: 30;
+  width:328px ;
+
+}
+.btn-encriptar{
+  background: darkblue;
+  border: 1px solid darkblue ;
+  border-radius: 24px ;
+  color: white;
+  cursor: pointer;
+  height:50px ;
+  width: 320px;
+
+}
+.btn-copiar{
+  border:1px solid darkblue ;
+  border-radius:24px ;
+  color:darkblue ;
+  cursor:pointer ;
+  height: 50px;
+  margin-left:108px ;
+  margin-top: 300px;
+  position:absolute; 
+  width: 336px;
+
+}
+.informacao{
+  color: gray;
+  font-size: 18px;
+
+}

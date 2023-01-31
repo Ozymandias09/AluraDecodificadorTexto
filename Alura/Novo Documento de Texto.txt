@@ -1,0 +1,3 @@
+https://www.alura.com.br/challenges/challenge-one-logica/sprint01-construa-decodificador-texto-com-javascript
+
+https://www.alura.com.br/challenges/oracle-one-java/sprint02-aplicacao-banco-de-dados
